@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         button = findViewById<Button?>(R.id.button)
 
         button.setOnClickListener {
-            editText1.setText("testees")
+            editText1.setText("Hello how are you")
         }
     }
 
