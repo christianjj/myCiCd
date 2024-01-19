@@ -49,7 +49,7 @@
         android:layout_marginTop="28dp"
         android:ems="10"
         android:inputType="text"
-        android:text="location"
+        android:text="Address"
         app:layout_constraintStart_toStartOf="@+id/editTextText3"
         app:layout_constraintTop_toBottomOf="@+id/editTextText3" />
 
